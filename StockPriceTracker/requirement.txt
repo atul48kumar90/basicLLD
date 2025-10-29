@@ -1,0 +1,13 @@
+Concept
+
+Each stock has multiple price updates throughout the day.
+
+You can:
+
+Add a new stock
+
+Update its price
+
+Get the current, highest, and lowest price
+
+Show all stats

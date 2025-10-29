@@ -1,0 +1,7 @@
+A movie has multiple shows.
+
+Each show has a limited number of available seats.
+
+A user can book or cancel tickets.
+
+System maintains available seat count per show.

@@ -1,0 +1,15 @@
+🧠 New Functionalities
+
+Add product categories (Electronics, Fashion, etc.)
+
+Top-rated products per category
+
+Product review comments (per user)
+
+Average rating caching (computed once, updated only on rating change)
+
+Support for removing a product
+
+Show detailed report (avg rating, total users, reviews)
+
+Thread-safe and modular service layer

@@ -1,0 +1,11 @@
+Track total views per video
+
+Track unique viewers per video (based on userId)
+
+Cache computed metrics (like total and unique views)
+
+Provide reports (most viewed videos, per-user stats, etc.)
+
+Thread-safe design
+
+Runnable console-based Java app (no frameworks, no DB)

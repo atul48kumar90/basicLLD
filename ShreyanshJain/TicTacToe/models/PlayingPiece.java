@@ -1,0 +1,9 @@
+package ShreyanshJain.TicTacToe.models;
+
+public class PlayingPiece {
+    PieceType pieceType;
+
+    public PlayingPiece(PieceType pieceType){
+        this.pieceType = pieceType;
+    }
+}

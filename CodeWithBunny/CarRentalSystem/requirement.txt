@@ -1,0 +1,21 @@
+Functional Requirement
+----------------------
+1. user can register & login
+2. User can search car based on location carType
+3. User can book car
+4. Payment
+5. Notification
+
+Non Functional Requirement
+--------------------------
+1. Scalability
+2. Maintainbility
+3. Modular
+
+Entity
+-------------------------
+1. User
+2. car
+3. Booking
+4. Payment
+5. Notification

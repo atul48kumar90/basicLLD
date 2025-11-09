@@ -1,0 +1,21 @@
+Function requirement
+-------------------------------
+1. User can search flight based on date, location and other parameters
+2. User can register and login
+3. User can book flight
+4. make payment
+5. notification
+
+Non functional requirement
+-------------------------------
+1. Scalable
+2. Reliable
+3. Modular
+
+Entity
+-------------------------------
+1. User
+2. flight
+3. Booking
+4. payment
+5. Notification

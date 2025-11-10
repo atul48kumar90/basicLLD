@@ -1,0 +1,27 @@
+Functional Requirement
+----------------------
+1. User can sign up and sign in
+2. User can get List of resturant
+3. User can select resturant and food items
+4. User can order food
+5. User can make payment
+6. Get notification
+7. Live tracking
+
+Non functional Requirement
+--------------------------
+1. Available
+2. Scalable
+3. Maintainable
+
+Entity
+------
+1. User
+2. Customer
+3. resturant
+4. Menu
+5. food
+6. Cart
+7. OrderDetails
+8. tracking
+9. Payment

@@ -1,0 +1,21 @@
+Functional Requirement
+----------------------
+1. User can signup and sign in
+2. User can search hotels based on given parameters( location, rating, availability)
+3. User can book rooms
+4. make payment
+5. confirm & notification
+
+Non Functional Requirement
+--------------------------
+1. Available
+2. Scalable
+
+Entity
+------
+1. User
+2. Hotel
+3. Booking
+4. Payment
+5. Rooms
+6. Location

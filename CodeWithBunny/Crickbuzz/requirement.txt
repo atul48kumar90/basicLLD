@@ -1,0 +1,20 @@
+Functional Requirement
+----------------------
+1. get the list of all match and the basic info like match type
+2. get info of innings
+3. get ball by ball details
+4. Details of all score
+
+Non Functional Requirement
+--------------------------
+1. Scalable
+2. Available
+3. Maintanable
+
+Entity
+------
+1. match
+2. innings
+3. Player
+4. ball
+5. Wicket
